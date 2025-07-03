@@ -57,13 +57,15 @@ cd frontend
 npm install
 npm run dev
 
+---
+
 ## Optional Bonus Challenges
 
-## Basic Analytics View
+### Basic Analytics View
     Added a small dashboard component to the UI that displays a simple chart showing the count of
 logs by level over the currently filtered time range.
 
-## Unit Testing
+### Unit Testing
     Added a few meaningful unit tests for a critical piece of the
 application's logic. 
 
